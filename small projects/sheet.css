@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+  color: antiquewhite;
+}
+img{
+  height: 200px;
+  width: 400px;
+}
+body{
+background-color: black;
+}
+.first{
+    color: aqua;
+    text-align: center;
+}
+.second{
+    color: aqua;
+    text-align: center;
+}
+.third{
+    text-align: center;
+    color: aqua;
+}
+.fourth{
+    text-align: center;
+    color: aqua;
+}
